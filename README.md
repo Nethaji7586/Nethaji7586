@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nethaji</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRiYXVveGV0ZDc0YWh1bXdiejRnMThna2ZleDU2bzFmcHVvN3o0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBu1PjOPhbMARkk/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV5OXVhb2F1NDYzYXJvaG4yMXFsYzdxNzFhNnM5ZWF4N243MWZvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uc0jpN5cjOUfZVJM8j/giphy.gif">
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-3jc.pages.dev/](https://portfolio-3jc.pages.dev/)

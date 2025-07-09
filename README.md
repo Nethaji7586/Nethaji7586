@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV5OXVhb2F1NDYzYXJvaG4yMXFsYzdxNzFhNnM5ZWF4N243MWZvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uc0jpN5cjOUfZVJM8j/giphy.gif">
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-3jc.pages.dev/](https://portfolio-3jc.pages.dev/)
+- 👨‍💻 All of my projects are available at [https://portfolio-3jc.pages.dev/](https://portfolio-3jc.pages.dev](https://www.nethaji.xyz/)/)
 
 - 💬 Ask me about **Django,Java**
 

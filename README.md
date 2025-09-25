@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nethaji</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
-
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZpZjNhM2g2eWJtYnpyY3NzcGc4Nmlpbms3dHUxMWN3MG5sZWFwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wA4TfFmdObEoUTUA6A/giphy.gif" alt="Coding" width="400">
 </p>
 
 - 📫 Reach me at **nethajisiva1503@gmail.com**
-- 👨‍💻 Check out my portfolio: [nethaji.xyz](https://www.nethaji.xyz)
+- 👨‍💻 Check out: [nethaji.xyz](https://www.nethaji.xyz)
 
 ---
 

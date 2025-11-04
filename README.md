@@ -28,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" height="40"/>
 </p>
 <h6>Tools-Frameworks</h6>
-<h6>Tools-Frameworks</h6>
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase,flask,django,postman,docker,git,github,figma,opencv" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" height="40"/>
